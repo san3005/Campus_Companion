@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484904019745",
+    "project_id": "rapidsync-ef616",
+    "storage_bucket": "rapidsync-ef616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484904019745:android:accb539bacfb9b07e20060",
+        "android_client_info": {
+          "package_name": "com.maggie.rapidsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgp_k2yUTCh8VxNJbhMoLEu3f4D6UA1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

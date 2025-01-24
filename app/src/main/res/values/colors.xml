@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#007FAC</color>
+    <color name="green_lyt">#007FC7</color>
+<!--    <color name="green_lyt">#24EBA2</color>-->
+    <color name="blue_lyt">#09B0E7</color>
+    <color name="blue_dark">#007FC7</color>
+    <color name="text_dark">#131518</color>
+    <color name="text_lyt">#636D88</color>
+    <color name="bg_lyt">#F3F4F8</color>
+    <color name="bg_surface">#F9FAFC</color>
+    <color name="bg_surface_lyt">#C8DDE0E8</color>
+    <color name="red">#DF0751</color>
+
+</resources>

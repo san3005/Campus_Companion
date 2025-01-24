@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RapidSync</string>
+    <string name="option">Option</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
